@@ -135,5 +135,4 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## License
 
-Distributed under the MIT License (or specify your chosen license). See `LICENSE` file for more information.
-*(If you don't have a LICENSE file, consider adding one. MIT is a common and permissive choice.)*
+I don't have any, if you can please help me out!
