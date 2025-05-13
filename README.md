@@ -2,9 +2,6 @@
 
 This project demonstrates real-time human pose estimation using an ONNX model (likely YOLOv8-Pose or similar) with the Microsoft.ML.OnnxRuntime in C#. It processes an image, detects human keypoints, and visualizes these keypoints and connections on the image.
 
-![Pose Detection Example](https://user-images.githubusercontent.com/example/placeholder.png)
-*(Replace the above placeholder image URL with an actual example output from your project if available. You can upload an image to the GitHub issue tracker or directly to your repo and link it.)*
-
 ## Features
 
 * **Human Pose Estimation:** Detects 17 common human body keypoints.
